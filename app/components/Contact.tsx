@@ -53,11 +53,11 @@ export default function Contact() {
                         transition={{ duration: 0.5, delay: 0.15 }}
                     >
                         <a
-                            href="mailto:subinkumar077@gmail.com"
+                            href="mailto:subinkr07@gmail.com"
                             className="inline-flex items-center gap-2 px-6 py-3 text-base font-medium text-slate-900 bg-amber-500 hover:bg-amber-400 rounded-lg transition-colors duration-200"
                         >
                             <Mail size={18} />
-                            subinkumar077@gmail.com
+                            subinkr07@gmail.com
                         </a>
                     </motion.div>
 

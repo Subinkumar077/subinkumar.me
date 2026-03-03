@@ -11,12 +11,12 @@ const socials = [
     },
     {
         label: "LinkedIn",
-        href: "https://linkedin.com/in/subinkumar",
+        href: "www.linkedin.com/in/subinkumar07",
         icon: Linkedin,
     },
     {
         label: "Twitter",
-        href: "https://twitter.com/subinkumar",
+        href: "https://x.com/SubinKumar077",
         icon: Twitter,
     },
 ]

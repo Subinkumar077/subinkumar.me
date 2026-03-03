@@ -45,7 +45,7 @@ jobs:
         if: steps.detect-package-manager.outputs.manager == 'pnpm'
         uses: pnpm/action-setup@v3
         with:
-          version: 9
+          version: 9 # Matches major pnpm version
 
       - name: Setup Node
         uses: actions/setup-node@v4
